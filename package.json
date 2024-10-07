@@ -1,5 +1,11 @@
 {
   "name": "md-turborepo",
+  "homepage": "miki-du.com",
+  "author": {
+    "name": "Mikita Du",
+    "email": "dr.boria@gmail.com",
+    "url": "miki-du.com"
+  },
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
