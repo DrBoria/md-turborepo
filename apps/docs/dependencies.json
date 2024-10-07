@@ -1,0 +1,38 @@
+{
+    "components": [
+        "Button",
+        "Input",
+        "TextArea",
+        "ShortedText",
+        "Checkbox",
+        "MultiSelect",
+        "Select",
+        "Icons",
+        "Pagination",
+        "Separator",
+        "Spinner",
+        "Tooltip",
+        "Logo",
+        "Link",
+        "Tabs",
+        "Toggle",
+        "ColumnsContainer",
+        "DashboardCardsContainer",
+        "FocusedContainer",
+        "LinksContainer",
+        "OneLineContainer",
+        "MenuItemContainer",
+        "SubTitle",
+        "PageTitle",
+        "DescriptionText",
+        "PlainText",
+        "HeaderText",
+        "LinkInForm"
+    ],
+    "utils": [],
+    "utilsDependencies": [],
+    "ignore": [
+        ".keystone",
+        ".env"
+    ]
+}
